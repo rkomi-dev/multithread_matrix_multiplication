@@ -33,3 +33,11 @@ Il calcolo viene parallelizzato sfruttando il paradigma del **Data Parallelism**
 Per installare i requisiti Python:
 ```bash
 pip install matplotlib
+```
+---
+
+## Perfomance
+
+<img width="800" height="500" alt="grafico_prestazioni" src="https://github.com/user-attachments/assets/f869872a-425e-4c88-b808-332000faec08" />
+
+
